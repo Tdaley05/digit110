@@ -2,7 +2,8 @@
 <root>
     <poem author="Robert Frost" year="1923" lang="en">
         <title>Nothing Gold Can Stay</title>
-        <br/>
+        <author extLink="AuthorProfile" url="https://www.poetryfoundation.org/poets/robert-frost"
+            >Robert Frost</author>
         <stanza n="1">
             <line n="1">Nature’s first green is gold,</line>
             <line n="2">Her hardest hue to hold.</line>
@@ -14,6 +15,11 @@
             <line n="8">Nothing gold can stay.</line>
         </stanza>
     </poem>
+    <extLink url="https://www.poetryfoundation.org/articles/162097/robert-frosts-nothing-gold-can-stay"
+        >Poem Guide</extLink>
     <meta url="https://www.poetryfoundation.org/poems/148652/nothing-gold-can-stay-5c095cc5ab679"
-        name="The Poetry Foundation" accessed="2025-Sept-02" Credit="Robert Frost, NothingGoldCanStay"  From="New Hampshire" Info="A Poem with Notes and Grace Notes." Pub="New York: Henry Holt and Co. 1923." c="Public Domain."/> 
+        name="The Poetry Foundation" accessed="2025-Sept-02"
+        Credit="Robert Frost, NothingGoldCanStay" From="New Hampshire"
+        Info="A Poem with Notes and Grace Notes." Pub="New York: Henry Holt and Co. 1923."
+        c="Public Domain."/>
 </root>
